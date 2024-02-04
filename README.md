@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aaron (@a-a-ronm)!
-- 👀 I’m interested in data science, analysis, and using them to help systems serve people more effectively.
+- 👀 I’m interested in data science, analysis, and using them to help serve others.
 - 😄 Pronouns: he/him
 
 <!---
